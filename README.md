@@ -1,2 +1,2 @@
 # Pascal_Training
-first git repo created using a github
+First Git Repo created using a Github
